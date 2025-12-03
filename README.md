@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]
+🔗 [View Portfolio Live] https://srijan-portfolio-mu.vercel.app/
 
 ## 🛠️ Tech Stack
 
